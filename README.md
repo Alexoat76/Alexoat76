@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Alex</h1>
-<h3 align="center">A passionate frontend developer from Bogotá (Colombia)</h3>
+<h3 align="center">A passionate developer from Bogotá (Colombia)</h3>
 
 </p>
 

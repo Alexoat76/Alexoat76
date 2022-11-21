@@ -16,6 +16,26 @@
 </a>
 </p>
 
+## My favorite Tech.
+
+<details  style="user-select: none;">
+<summary>
+Platforms
+</summary>
+
+<p align='center'>
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/Icons8-linux.svg" alt="linux" width="40" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-ubuntu.svg" alt="ubuntu" width="40" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-WT_Logo.svg" alt="wsl_terminal" width="40" height="60">
+&nbsp;&nbsp;
+<img src=https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-docker.svg" alt="docker" width="40" height="60">
+</p>
+
+</details>
+  
+  
 <h3 align="left">Metrics:</h3>
 <p align="center">
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> <br>

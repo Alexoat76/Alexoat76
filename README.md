@@ -26,11 +26,15 @@ Platforms
 <p align='center'>
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/Icons8-linux.svg" alt="linux" width="40" height="60">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-ubuntu.svg" alt="ubuntu" width="40" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-ubuntu.svg" alt="ubuntu" width="35" height="60">
 &nbsp;&nbsp;
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-WT_Logo.svg" alt="wsl_terminal" width="40" height="60">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-docker.svg" alt="docker" width="40" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-windows.svg" alt="windows" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-vagrant.svg" alt="vagrant" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-docker.svg" alt="docker" width="45" height="60">
 </p>
 
 </details>

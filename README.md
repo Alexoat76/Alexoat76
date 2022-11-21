@@ -7,7 +7,7 @@
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-gmail.svg" alt="gmail" width="35" height="60">
 </a>
 &nbsp;&nbsp;
-<a href="www.linkedin.com/in/alexoat76" >
+<a href="www.linkedin.com/alexoat76" >
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-linkedin.svg" alt="linkedin" width="40" height="60">
 </a>
 &nbsp;&nbsp;

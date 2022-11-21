@@ -30,7 +30,7 @@ Platforms
 &nbsp;&nbsp;
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-WT_Logo.svg" alt="wsl_terminal" width="40" height="60">
 &nbsp;&nbsp;
-<img src=https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-docker.svg" alt="docker" width="40" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-docker.svg" alt="docker" width="40" height="60">
 </p>
 
 </details>

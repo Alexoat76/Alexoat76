@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Bogotá (Colombia)</h3>
 
 <p align='center'>
-<a href="alexoat76@gmail.com" >
+<alexoat76@gmail.com >
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-gmail.svg" alt="gmail" width="35" height="60">
 </a>
 &nbsp;&nbsp;

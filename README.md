@@ -16,13 +16,12 @@
 </a>
 </p>
 
-## My favorite Tech.
+## My Tech Stack.
 
 <details  style="user-select: none;">
 <summary>
-Platforms
+OS & Platforms : ✔️
 </summary>
-
 <p align='center'>
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/Icons8-linux.svg" alt="linux" width="40" height="60">
 &nbsp;&nbsp;
@@ -36,11 +35,20 @@ Platforms
 &nbsp;&nbsp;
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-docker.svg" alt="docker" width="45" height="60">
 </p>
-
 </details>
-  
-  
-<h3 align="left">Metrics:</h3>
+
+<details  style="user-select: none;">
+<summary>
+Development Environments : ✔️
+</summary>
+<p align='center'>
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-vim.svg" alt="linux" width="40" height="60">
+&nbsp;&nbsp;
+</p>
+</details>
+ 
+## Metrics:
+
 <p align="center">
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"> <br>
 <img align="center" src="/github-contribution-grid-snake.svg" alt="animation" width="700">

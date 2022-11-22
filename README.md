@@ -16,7 +16,7 @@
 </a>
 </p>
 
-## My Tech Stack.
+## My Tech Stack:
 
 <details  style="user-select: none;">
 <summary>

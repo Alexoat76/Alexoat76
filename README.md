@@ -54,7 +54,7 @@ Editors & Development Environments : ✔️
 &nbsp;&nbsp;
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-git.svg" alt="Git" width="35" height="60">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-github.svg" alt="Github" width="35" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-github.svg" alt="Github" width="38" height="60">
 </p>
 </details>
  

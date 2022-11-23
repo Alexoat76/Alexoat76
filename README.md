@@ -80,13 +80,13 @@ Languages & Libraries : ✔️
 Databases : ✔️
 </summary>
 <p align='center'>
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-mysql.svg" alt="MySQL" width="35" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-mysql.svg" alt="MySQL" width="45" height="60">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-postgres.svg" alt="Postgres" width="35" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-postgres.svg" alt="Postgres" width="45" height="60">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-mongodb.svg" alt="Mongo" width="40" height="50">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-mongodb.svg" alt="Mongo" width="45" height="50">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-redis.svg" alt="redis" width="35" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-redis.svg" alt="redis" width="45" height="60">
 </p>
 </details>
  

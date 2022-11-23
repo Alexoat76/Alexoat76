@@ -58,6 +58,38 @@ Editors & Development Environments : ✔️
 </p>
 </details>
  
+<details  style="user-select: none;">
+<summary>
+Languages & Libraries : ✔️
+</summary>
+<p align='center'>
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-c.svg" alt="C" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-ruby.svg" alt="Ruby" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-python.svg" alt="Python" width="40" height="50">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-javascript.svg" alt="Javascript" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-node-js.svg" alt="NodeJS" width="60" height="60">
+</p>
+</details>
+
+<details  style="user-select: none;">
+<summary>
+Databases : ✔️
+</summary>
+<p align='center'>
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-mysql.svg" alt="MySQL" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-postgres.svg" alt="Postgres" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-mongodb.svg" alt="Mongo" width="40" height="50">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-redis.svg" alt="redis" width="35" height="60">
+</p>
+</details>
+ 
 ## Metrics:
 
 <p align="center">

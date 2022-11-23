@@ -39,11 +39,22 @@ OS & Platforms : ✔️
 
 <details  style="user-select: none;">
 <summary>
-Development Environments : ✔️
+Editors & Development Environments : ✔️
 </summary>
 <p align='center'>
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-vim.svg" alt="linux" width="40" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-Vs-code.svg" alt="VSCode" width="35" height="60">
 &nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-PyCharm.svg" alt="PyCharm" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-Bash.svg" alt="Bash" width="40" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-vim.svg" alt="Vim" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-Emacs.svg" alt="Emacs" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-git.svg" alt="Git" width="35" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-github.svg" alt="Github" width="35" height="60">
 </p>
 </details>
  

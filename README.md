@@ -44,6 +44,8 @@ Editors & Development Environments : ✔️
 <p align='center'>
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-Vs-code.svg" alt="VSCode" width="35" height="60">
 &nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-IntelliJ_IDEA.svg" alt="IntelliJ" width="35" height="60">
+&nbsp;&nbsp;
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-PyCharm.svg" alt="PyCharm" width="35" height="60">
 &nbsp;&nbsp;
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-Bash.svg" alt="Bash" width="40" height="60">

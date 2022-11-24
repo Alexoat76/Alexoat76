@@ -103,9 +103,9 @@ Databases : ✔️
 Management tools : ✔️
 </summary>
 <p align='center'>
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-trello.svg" alt="Trello" width="35" height="45">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-trello.svg" alt="Trello" width="33" height="45">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-slack.svg" alt="Slack" width="35" height="40">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-slack.svg" alt="Slack" width="31" height="40">
 &nbsp;&nbsp;
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-notion.svg" alt="Notion" width="34" height="40">
 </p>

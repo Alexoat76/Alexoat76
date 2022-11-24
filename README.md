@@ -12,7 +12,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/Alexoat76" >
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-twitter.svg" alt="twitter" width="40" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-twitter.svg" alt="twitter" width="25" height="50">
 </a>
 </p>
 
@@ -74,6 +74,8 @@ Languages & Libraries : ✔️
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-javascript.svg" alt="Javascript" width="35" height="60">
 &nbsp;&nbsp;
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-node-js.svg" alt="NodeJS" width="60" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-react.svg" alt="React" width="50" height="60">
 </p>
 </details>
 
@@ -89,6 +91,19 @@ Databases : ✔️
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-mongodb.svg" alt="Mongo" width="45" height="50">
 &nbsp;&nbsp;
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-redis.svg" alt="redis" width="45" height="60">
+</p>
+</details>
+
+<details  style="user-select: none;">
+<summary>
+Management tools : ✔️
+</summary>
+<p align='center'>
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-notion.svg" alt="Notion" width="45" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-trello.svg" alt="Trello" width="45" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-slack.svg" alt="Slack" width="45" height="50">
 </p>
 </details>
  

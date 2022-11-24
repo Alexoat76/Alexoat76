@@ -67,15 +67,19 @@ Languages & Libraries : ✔️
 <p align='center'>
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-c.svg" alt="C" width="35" height="60">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-ruby.svg" alt="Ruby" width="35" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-ruby.svg" alt="Ruby" width="30" height="60">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-python.svg" alt="Python" width="40" height="50">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-python.svg" alt="Python" width="35" height="50">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-javascript.svg" alt="Javascript" width="35" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-javascript.svg" alt="Javascript" width="32" height="60">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-HTML.svg" alt="Html5" width="25" height="50">
+&nbsp;&nbsp;
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-CSS.svg" alt="Css3" width="30" height="60">
 &nbsp;&nbsp;
 <img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-node-js.svg" alt="NodeJS" width="60" height="60">
 &nbsp;&nbsp;
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-react.svg" alt="React" width="50" height="60">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-react.svg" alt="React" width="35" height="60">
 </p>
 </details>
 

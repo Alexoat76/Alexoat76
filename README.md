@@ -12,7 +12,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/Alexoat76" >
-<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-twitter.svg" alt="twitter" width="25" height="50">
+<img src="https://github.com/Alexoat76/Alexoat76/blob/main/assets/icons8-twitter.svg" alt="twitter" width="40" height="50">
 </a>
 </p>
 
